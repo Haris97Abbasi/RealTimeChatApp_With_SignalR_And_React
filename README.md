@@ -10,6 +10,8 @@ Welcome to the **Real-Time Chat Application**, a cutting-edge communication plat
 - **Timestamped Messages**: Every message sent or received is timestamped, providing context and a historical record of conversations.
 - **Multiple User Support**: The application supports multiple users joining simultaneously, with each user's messages displayed in real time to all participants in the same group or chat room.
 
+![Screenshot of Application](/ChatMessages.PNG "Application Screenshot")
+
 ## Technologies Used
 
 ### Backend
